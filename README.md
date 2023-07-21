@@ -9,18 +9,6 @@ Welcome to the **Machine Learning Case Studies** repository! This collection con
 
 In this repository, I have documented my journey through various real-world problems and applied machine learning techniques to gain insights and make predictions. Each case study focuses on a specific problem domain, and I've strived to make the code and explanations as clear and accessible as possible.
 
-## Folder Structure
-
-The repository is organized as follows:
-
-- `Case_Study_1/`: This folder contains all the materials for the first machine learning case study.
-  - `data/`: Raw data files used for the analysis and modeling.
-  - `notebooks/`: Jupyter notebooks detailing the step-by-step process of data exploration, preprocessing, modeling, and evaluation.
-  - `summary/`: Any relevant output or visualizations generated during the analysis.
-
-- `Case_Study_2/`: Similar to Case Study 1, this folder contains materials for the second machine learning case study.
-
-- `Case_Study_3/`: ... and so on for additional case studies.
 
 ## How to Use This Repository
 
