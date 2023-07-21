@@ -1,4 +1,7 @@
-![Image](https://th.bing.com/th/id/OIP.x1qaAbEbfpV_LVbhOLNx9QAAAA?w=291&h=175&c=7&r=0&o=5&pid=1.7)
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIP.x1qaAbEbfpV_LVbhOLNx9QAAAA?w=291&h=175&c=7&r=0&o=5&pid=1.7" title="hover text">
+</p>
+
 # Introduction
 This case study aims to give you an idea of applying EDA in a real business scenario. In this assignment, apart from applying the techniques that you have learnt in the EDA module, you will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
