@@ -1,6 +1,6 @@
 # Machine Learning Case Studies
 <div style="text-align:center">
-  <img src="[https://via.placeholder.com/600x400" alt="Machine Learning](https://th.bing.com/th/id/OIP._yiQ9sHpbbkIivoaaGz7dQHaEo?pid=ImgDet&rs=1)">
+  <img src="https://via.placeholder.com/600x400" alt="Machine Learning](https://th.bing.com/th/id/OIP._yiQ9sHpbbkIivoaaGz7dQHaEo?pid=ImgDet&rs=1)">
 </div>
 
 
