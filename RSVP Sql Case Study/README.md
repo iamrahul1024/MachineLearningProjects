@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.x1qaAbEbfpV_LVbhOLNx9QAAAA?w=291&h=175&c=7&r=0&o=5&pid=1.7](https://i.ytimg.com/vi/IrDRcPJoYX4/maxresdefault.jpg" title="hover text">
+  <img src="https://i.ytimg.com/vi/IrDRcPJoYX4/maxresdefault.jpg" title="hover text">
 </p>
 
 # Problem Statement 
