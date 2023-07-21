@@ -1,6 +1,7 @@
 # Machine Learning Case Studies
-
-![Machine Learning](https://th.bing.com/th/id/OIP._yiQ9sHpbbkIivoaaGz7dQHaEo?pid=ImgDet&rs=1)
+<div style="text-align:center">
+  <img src="[https://via.placeholder.com/600x400" alt="Machine Learning](https://th.bing.com/th/id/OIP._yiQ9sHpbbkIivoaaGz7dQHaEo?pid=ImgDet&rs=1)">
+</div>
 
 
 Welcome to the **Machine Learning Case Studies** repository! This collection contains a series of independent machine learning case studies that I have personally explored and experimented with. Each folder within this repository represents a distinct case study, and you will find the raw data for each study contained within its respective folder.
