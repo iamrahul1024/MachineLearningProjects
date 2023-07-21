@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/iamrahul1024/MachineLearningProjects/assets/48449977/da4bfec4-9687-403b-b2a5-e4239f7682ed" title="hover text">
+</p>
+
 # Problem Statement
 ‘BeHealthy’ aims to connect the medical communities with millions of patients across the country. 
 
