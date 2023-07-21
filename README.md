@@ -1,6 +1,6 @@
 # Machine Learning Case Studies
 <div style="text-align:center">
-  ![Machine Learning]([https://via.placeholder.com/600x400](https://th.bing.com/th/id/OIP._yiQ9sHpbbkIivoaaGz7dQHaEo?pid=ImgDet&rs=1))
+  ![Machine Learning](https://th.bing.com/th/id/OIP._yiQ9sHpbbkIivoaaGz7dQHaEo?pid=ImgDet&rs=1)
 </div>
 
 
